@@ -1,6 +1,6 @@
 Name:		texlive-srdp-mathematik
 Version:	64988
-Release:	1
+Release:	2
 Summary:	Typeset Austrian SRDP in mathematics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/srdp-mathematik
