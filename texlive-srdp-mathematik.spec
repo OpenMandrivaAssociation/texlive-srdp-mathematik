@@ -1,5 +1,5 @@
 Name:		texlive-srdp-mathematik
-Version:	69288
+Version:	70807
 Release:	1
 Summary:	Typeset Austrian SRDP in mathematics
 Group:		Publishing
