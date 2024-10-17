@@ -3,7 +3,7 @@ Version:	70807
 Release:	1
 Summary:	Typeset Austrian SRDP in mathematics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/srdp-mathematik
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/srdp-mathematik
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/srdp-mathematik.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/srdp-mathematik.doc.r%{version}.tar.xz
